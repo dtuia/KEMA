@@ -1,0 +1,27 @@
+% 
+% KERNEL MANIFOLD ALIGNMENT
+% 
+% We include the data used in the paper in the folder kema/data for the 
+% sake of completeness and reproduceability of the results. The data can be
+% alternatively downloaded from the original sources:
+%
+%       - ellipses2D.mat
+%       This is our in-house toy example.
+% 
+%       - SURF_VOC.zip
+%       https://www.eecs.berkeley.edu/~jhoffman/domainadapt/
+% 
+%       - DeCAF_VOC.zip
+%       http://www3.ntu.edu.sg/home/dongxu/
+%       http://vc.sce.ntu.edu.sg/transfer_learning_domain_adaptation/domain_adaptation_home.html
+% 
+%       - songface.mat
+%       http://www.cc.gatech.edu/~lsong/code.html
+%
+% Hereby we want to thank the different authors for sharing the data with 
+% the scientific community. 
+% 
+%           Devis Tuia and Gustau Camps-Valls.
+%           "Kernel Manifold Alignment". Submitted, 2015
+% 
+

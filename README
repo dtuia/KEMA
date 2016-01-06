@@ -1,0 +1,67 @@
+%
+% KERNEL MANIFOLD ALIGNMENT
+%
+%    This demo illustrates the performance of the semisupervised kernel 
+%    manifold alignment (KEMA) in several toy examples.
+%
+%   All these programs included in this package are intended for illustration
+%   purposes and as accompanying software for the paper:
+%
+%           Devis Tuia and Gustau Camps-Valls. 
+%           "Kernel Manifold Alignment". Submitted, 2015
+%
+%   If you find the software useful in other domains, we would greatly acknowledge 
+%   citing our paper above. Also, please consider citing these papers:
+%
+%        Semisupervised Manifold Alignment of Multimodal Remote Sensing Images
+%            Devis Tuia, Michele Volpi, Maxime Trolliet, and G. Camps-Valls
+%            IEEE Transactions on Geoscience and Remote Sensing, 52(12), 7708-7720, Dec. 2014
+%
+%        Unsupervised Alignment of Image Manifolds with Centrality Measures
+%            Devis Tuia, Michele Volpi and G. Camps-Valls
+%            22nd International Conference on Pattern Recognition, ICPR 2014
+%            Stockholm, Sweden, August 2014
+%
+%   --------------------------------------
+%   Copyright & Disclaimer
+%   --------------------------------------
+%
+%   The programs contained in this package are granted free of charge for
+%   research and education purposes only. Scientific results produced using
+%   the software provided shall acknowledge the use of this implementation
+%   provided by us. If you plan to use it for non-scientific purposes,
+%   don't hesitate to contact us. Because the programs are licensed free of
+%   charge, there is no warranty for the program, to the extent permitted
+%   by applicable law. except when otherwise stated in writing the
+%   copyright holders and/or other parties provide the program "as is"
+%   without warranty of any kind, either expressed or implied, including,
+%   but not limited to, the implied warranties of merchantability and
+%   fitness for a particular purpose. the entire risk as to the quality and
+%   performance of the program is with you. should the program prove
+%   defective, you assume the cost of all necessary servicing, repair or
+%   correction. In no event unless required by applicable law or agreed to
+%   in writing will any copyright holder, or any other party who may modify
+%   and/or redistribute the program, be liable to you for damages,
+%   including any general, special, incidental or consequential damages
+%   arising out of the use or inability to use the program (including but
+%   not limited to loss of data or data being rendered inaccurate or losses
+%   sustained by you or third parties or a failure of the program to
+%   operate with any other programs), even if such holder or other party
+%   has been advised of the possibility of such damages.
+%
+%   NOTE: This is just a demo providing a default initialization. Training
+%   is not at all optimized. Other initializations, optimization techniques, 
+%   and training strategies may be of course better suited to achieve improved 
+%   results in this or other problems. We just did it in the standard way for 
+%   illustration purposes and dissemination of these models. 
+%
+% Copyright (c) 2015 by Devis Tuia and Gustau Camps-Valls
+%
+%      Devis Tuia, <devis.tuia@geo.uzh.ch> 
+%      University of Zurich, Switzerland 
+%      http://www.geo.uzh.ch/en/units/multimodal-remote-sensing
+%
+%      Gustau Camps-Valls, <gustau.camps@uv.es>, 
+%      Universitat de Valencia, Spain
+%      http://isp.uv.es/
+%
