@@ -8,9 +8,10 @@
 %   purposes and as accompanying software for the paper:
 %
 %           Devis Tuia and Gustau Camps-Valls. 
-%           "Kernel Manifold Alignment". Submitted, 2015
+%           "Kernel Manifold Alignment for Domain Adaptation". PLoS One, 2016
 %
-%   If you find the software useful in other domains, we would greatly acknowledge 
+%   If you find the software useful in other domains, we would greatly 
+%   acknowledge 
 %   citing our paper above. Also, please consider citing these papers:
 %
 %        Semisupervised Manifold Alignment of Multimodal Remote Sensing Images
